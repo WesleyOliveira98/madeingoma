@@ -4,10 +4,18 @@ body {
     margin: 0 auto;
 
 }
-
 main {
     margin: 0 auto;
     width: 95%;
     height: 100%;
     position: relative;
+}
+.redes-sociais li {
+    display: inline-block;
+    
+}
+.redes-sociais {
+    width: 100%;
+    align-content: center;
+    text-align: center;
 }
